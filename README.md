@@ -1,0 +1,2 @@
+# yaxis_alignment_issue_highcharts
+Created with CodeSandbox
